@@ -1,6 +1,6 @@
 - 👋 Hi, my name is Daniel McCarthy
-- 👀 I'm a Computer Scientist and mobile developer with experience in Flutter knowledgable about HTTP requests, UI, clean architecture, cache storage, state management using BLOC and app publishing.
-- 💞️ I’m looking for new oportunities
+- 👀 Flutter mobile app development with BLoC pattern, Clean Architecture and reactive programming. Developed app integration with both REST APIs and GraphQL APIs. Strong cooperation with the design team to implement app interfaces. Contributed to a multichannel shopping app
+- 💞️ Swift mobile app development using Objective-C and Swift with Clean Architecture, reactive programming, SOLID principles and integration with Rest APIs. Contributed to a online personal trainer app.
 - 📫 You can reach me by whatsapp on the number: +55 (11) 99393-2469 or by Linkedinn on the link: https://www.linkedin.com/in/daniel-mccarthy-6910a6137/
 
 <!---
